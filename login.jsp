@@ -10,9 +10,9 @@
 
 
 
-	<%! String user = "teacher"; %>
+	<%! String user = "student"; %>
 
-	<%! String pass = "student"; %>
+	<%! String pass = "student1"; %>
 
 
 
